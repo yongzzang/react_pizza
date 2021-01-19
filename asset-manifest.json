@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/react_pizza/static/js/main.d35a27c9.chunk.js",
+    "main.js.map": "/react_pizza/static/js/main.d35a27c9.chunk.js.map",
+    "runtime-main.js": "/react_pizza/static/js/runtime-main.f6c98d26.js",
+    "runtime-main.js.map": "/react_pizza/static/js/runtime-main.f6c98d26.js.map",
+    "static/js/2.f76cbdfb.chunk.js": "/react_pizza/static/js/2.f76cbdfb.chunk.js",
+    "static/js/2.f76cbdfb.chunk.js.map": "/react_pizza/static/js/2.f76cbdfb.chunk.js.map",
+    "static/js/3.f5d6e16d.chunk.js": "/react_pizza/static/js/3.f5d6e16d.chunk.js",
+    "static/js/3.f5d6e16d.chunk.js.map": "/react_pizza/static/js/3.f5d6e16d.chunk.js.map",
+    "index.html": "/react_pizza/index.html",
+    "static/js/2.f76cbdfb.chunk.js.LICENSE.txt": "/react_pizza/static/js/2.f76cbdfb.chunk.js.LICENSE.txt",
+    "static/media/Feature1.a4d578bb.jpg": "/react_pizza/static/media/Feature1.a4d578bb.jpg",
+    "static/media/Feature2.5e3a78d2.jpg": "/react_pizza/static/media/Feature2.5e3a78d2.jpg",
+    "static/media/Feature3.12a396cc.jpg": "/react_pizza/static/media/Feature3.12a396cc.jpg",
+    "static/media/pizza-2.4f78d47f.jpg": "/react_pizza/static/media/pizza-2.4f78d47f.jpg",
+    "static/media/pizza-3.1518740f.jpg": "/react_pizza/static/media/pizza-3.1518740f.jpg",
+    "static/media/pizza-4.30302cdc.jpg": "/react_pizza/static/media/pizza-4.30302cdc.jpg",
+    "static/media/pizza-middle.c511bcbf.jpg": "/react_pizza/static/media/pizza-middle.c511bcbf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6c98d26.js",
+    "static/js/2.f76cbdfb.chunk.js",
+    "static/js/main.d35a27c9.chunk.js"
+  ]
+}
